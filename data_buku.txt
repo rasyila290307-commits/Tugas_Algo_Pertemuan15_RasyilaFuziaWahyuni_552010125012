@@ -1,0 +1,100 @@
+BK001,Algoritma Dasar,Andi Pratama,2010
+BK026,Biologi Umum,Agus Setiawan,2010
+BK076,Etika Profesi,Bagas Saputra,2010
+BK039,HTML & CSS,Nanda Pratama,2010
+BK051,Komputer Dasar,Andi Saputra,2010
+BK014,Analisis Sistem,Nina Sari,2011
+BK040,JavaScript,Omar Faruq,2011
+BK077,Kewirausahaan,Cici Maharani,2011
+BK027,Manajemen Proyek,Bella Safitri,2011
+BK002,Pemrograman Python,Budi Santoso,2011
+BK052,Pengantar TI,Bunga Melati,2011
+BK089,Python Lanjut,Omar Syah,2011
+BK064,Unreal Engine,Novi Andini,2011
+BK065,Cisco Networking,Oka Prasetya,2012
+BK028,Ekonomi Digital,Cahyo Prabowo,2012
+BK090,Java Lanjut,Pandu Wijaya,2012
+BK078,Komunikasi Data,Darmawan,2012
+BK053,Microsoft Office,Candra Wijaya,2012
+BK041,MySQL,Pipit Anggraini,2012
+BK015,Rekayasa Perangkat Lunak,Oki Prasetyo,2012
+BK003,Struktur Data,Citra Lestari,2012
+BK004,Basis Data,Dedi Kurniawan,2013
+BK091,C# Programming,Qila Nuraini,2013
+BK054,Excel Lanjutan,Dewi Kartika,2013
+BK066,Mikrotik,Rifki Maulana,2013
+BK016,Multimedia,Putri Ayu,2013
+BK042,PostgreSQL,Qomarudin,2013
+BK029,Sistem Informasi,Dian Permata,2013
+BK079,Sistem Pakar,Evi Kartika,2013
+BK030,Audit Sistem,Eko Saputro,2014
+BK005,Jaringan Komputer,Eka Saputra,2014
+BK043,Oracle Database,Rina Kartika,2014
+BK017,Pemrograman Java,Qori Ramadhani,2014
+BK080,Pengolahan Citra,Farhan Akbar,2014
+BK055,PowerPoint Kreatif,Eko Nugroho,2014
+BK092,R Programming,Rizal Hidayat,2014
+BK067,Virtualisasi,Salsa Putri,2014
+BK081,Kriptografi,Gilang Prakoso,2015
+BK093,MATLAB,Safira Putri,2015
+BK044,MongoDB,Slamet Riyadi,2015
+BK018,Pemrograman C++,Rian Saputra,2015
+BK006,Sistem Operasi,Fajar Nugroho,2015
+BK031,Visual Basic,Fina Lestari,2015
+BK068,VMware,Teguh Santoso,2015
+BK056,Word Profesional,Fahmi Akbar,2015
+BK032,Android Studio,Gilang Ramadhan,2016
+BK045,Big Data,Tika Permata,2016
+BK082,Blockchain,Hilda Sari,2016
+BK057,Canva untuk Pemula,Gina Rahma,2016
+BK069,Docker,Uli Setiawan,2016
+BK007,Kecerdasan Buatan,Gita Maharani,2016
+BK094,Pemrograman Mobile,Taufik Hidayat,2016
+BK019,Pemrograman PHP,Siti Nurhaliza,2016
+BK046,Deep Learning,Udin Syahputra,2017
+BK020,Desain Grafis,Tono Widjaya,2017
+BK058,Figma UI Design,Heri Setiawan,2017
+BK033,Flutter,Hani Rahmawati,2017
+BK070,Kubernetes,Vera Monica,2017
+BK008,Pemrograman Web,Hendra Wijaya,2017
+BK095,Swift iOS,Umar Dani,2017
+BK059,Adobe Photoshop,Intan Sari,2018
+BK071,DevOps,Widodo Saputra,2018
+BK084,E-Commerce,Jessica Putri,2018
+BK096,Kotlin Android,Vina Lestari,2018
+BK009,Machine Learning,Indra Setiawan,2018
+BK021,Matematika Diskrit,Umar Hakim,2018
+BK047,Neural Network,Vivi Lestari,2018
+BK034,React JS,Irfan Hidayat,2018
+BK085,Business Intelligence,Khoirul Anam,2019
+BK048,Computer Vision,Wawan Kurniawan,2019
+BK060,CorelDraw,Jamaludin,2019
+BK010,Data Mining,Joko Susilo,2019
+BK083,Digital Marketing,Ikhsan Ramadhan,2019
+BK072,Git & GitHub,Xenia Putri,2019
+BK097,Go Programming,Willy Saputra,2019
+BK022,Kalkulus,Vina Oktavia,2019
+BK035,Laravel,Jeni Marlina,2019
+BK061,Adobe Illustrator,Karin Amelia,2020
+BK086,Analisis Data,Lisa Marlina,2020
+BK011,Cloud Computing,Kiki Amelia,2020
+BK036,Django,Kevin Saputra,2020
+BK049,Robotika,Yusuf Hidayat,2020
+BK098,Rust Programming,Xavier Jonathan,2020
+BK073,Software Testing,Yoga Pratama,2020
+BK023,Statistika,Wahyu Firmansyah,2020
+BK062,Blender 3D,Lutfi Hidayat,2021
+BK087,Data Science,Muhammad Arif,2021
+BK024,Fisika Dasar,Yuni Astuti,2021
+BK050,Game Development,Zahra Putri,2021
+BK012,Internet of Things,Lina Wulandari,2021
+BK037,Node JS,Lukman Hakim,2021
+BK099,Pemrograman Rust,Yuni Kartika,2021
+BK074,Quality Assurance,Zainal Arifin,2021
+BK088,Artificial Intelligence,Nadia Rahma,2022
+BK013,Keamanan Siber,Muhammad Rizki,2022
+BK025,Kimia Dasar,Zaki Maulana,2022
+BK100,Teknologi Informasi Modern,Zidan Maulana,2022
+BK075,UI UX Design,Amelia Putri,2022
+BK063,Unity Game Engine,Mira Anggraini,2022
+BK038,Vue JS,Maya Sari,2022
